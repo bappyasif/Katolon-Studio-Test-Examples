@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Suite Login Test Example,Chrome 73.0.3683.103,,2019-05-05 21:01:55,2019-05-05 21:02:05,10.060s,FAILED
+,,,,,,
+Test Cases/Login Test/Performing Login,Chrome 73.0.3683.103,It will carry out Login Specs and do as we seems it fits as per our requirement goes.,2019-05-05 21:01:56,2019-05-05 21:02:04,8.965s,FAILED
+"openBrowser("""")",Chrome 73.0.3683.103,,2019-05-05 21:01:56,2019-05-05 21:02:00,4.392s,PASSED
+navigateToUrl(linkURL),Chrome 73.0.3683.103,,2019-05-05 21:02:00,2019-05-05 21:02:04,3.628s,PASSED
+"click(findTestObject(""null""))",Chrome 73.0.3683.103,,2019-05-05 21:02:04,2019-05-05 21:02:04,0.521s,FAILED

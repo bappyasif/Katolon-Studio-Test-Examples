@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This one will run on its own without from test suite data binding.</description>
+   <name>Test Case Another Use Case Of Variable Data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e89fc931-b01c-409e-9aeb-8dc9ce9d2f47</testCaseGuid>
+</TestCaseEntity>

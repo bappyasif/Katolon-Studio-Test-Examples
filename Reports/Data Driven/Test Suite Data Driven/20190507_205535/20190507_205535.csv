@@ -1,0 +1,47 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Test Suite Data Driven,Chrome 74.0.3729.131,,2019-05-07 20:55:38,2019-05-07 20:56:36,57.816s,PASSED
+,,,,,,
+Test Cases/Using Data From Files/Test Case Data Driven,Chrome 74.0.3729.131,Extracting Data from Excel File and then using it in Test case as inputs.,2019-05-07 20:55:38,2019-05-07 20:55:54,15.533s,PASSED
+"openBrowser("""")",Chrome 74.0.3729.131,,2019-05-07 20:55:39,2019-05-07 20:55:43,4.364s,PASSED
+"navigateToUrl(""https://opensource-demo.orangehrmlive.com/login"")",Chrome 74.0.3729.131,,2019-05-07 20:55:43,2019-05-07 20:55:48,4.458s,PASSED
+"click(findTestObject(""Object Repository/Object Locators/Page_OrangeHRM/span_Username""))",Chrome 74.0.3729.131,,2019-05-07 20:55:48,2019-05-07 20:55:48,0.156s,PASSED
+"setText(findTestObject(""Object Repository/Object Locators/Page_OrangeHRM/input_LOGIN Panel_txtUsername""), UserName)",Chrome 74.0.3729.131,,2019-05-07 20:55:48,2019-05-07 20:55:48,0.182s,PASSED
+"setText(findTestObject(""Object Repository/Object Locators/Page_OrangeHRM/input_Username_txtPassword""), UserPassword)",Chrome 74.0.3729.131,,2019-05-07 20:55:48,2019-05-07 20:55:48,0.159s,PASSED
+"click(findTestObject(""Object Repository/Object Locators/Page_OrangeHRM/input_Password_Submit""))",Chrome 74.0.3729.131,,2019-05-07 20:55:48,2019-05-07 20:55:53,5.051s,PASSED
+closeBrowser(),Chrome 74.0.3729.131,,2019-05-07 20:55:53,2019-05-07 20:55:54,0.717s,PASSED
+,,,,,,
+Test Cases/Using Data From Files/Test Case Data Driven,Chrome 74.0.3729.131,Extracting Data from Excel File and then using it in Test case as inputs.,2019-05-07 20:55:54,2019-05-07 20:56:03,9.646s,PASSED
+"openBrowser("""")",Chrome 74.0.3729.131,,2019-05-07 20:55:54,2019-05-07 20:55:56,2.612s,PASSED
+"navigateToUrl(""https://opensource-demo.orangehrmlive.com/login"")",Chrome 74.0.3729.131,,2019-05-07 20:55:56,2019-05-07 20:56:02,5.139s,PASSED
+"click(findTestObject(""Object Repository/Object Locators/Page_OrangeHRM/span_Username""))",Chrome 74.0.3729.131,,2019-05-07 20:56:02,2019-05-07 20:56:02,0.110s,PASSED
+"setText(findTestObject(""Object Repository/Object Locators/Page_OrangeHRM/input_LOGIN Panel_txtUsername""), UserName)",Chrome 74.0.3729.131,,2019-05-07 20:56:02,2019-05-07 20:56:02,0.151s,PASSED
+"setText(findTestObject(""Object Repository/Object Locators/Page_OrangeHRM/input_Username_txtPassword""), UserPassword)",Chrome 74.0.3729.131,,2019-05-07 20:56:02,2019-05-07 20:56:02,0.146s,PASSED
+"click(findTestObject(""Object Repository/Object Locators/Page_OrangeHRM/input_Password_Submit""))",Chrome 74.0.3729.131,,2019-05-07 20:56:02,2019-05-07 20:56:03,0.814s,PASSED
+closeBrowser(),Chrome 74.0.3729.131,,2019-05-07 20:56:03,2019-05-07 20:56:03,0.663s,PASSED
+,,,,,,
+Test Cases/Using Data From Files/Test Case Data Driven,Chrome 74.0.3729.131,Extracting Data from Excel File and then using it in Test case as inputs.,2019-05-07 20:56:03,2019-05-07 20:56:13,9.612s,PASSED
+"openBrowser("""")",Chrome 74.0.3729.131,,2019-05-07 20:56:03,2019-05-07 20:56:06,2.961s,PASSED
+"navigateToUrl(""https://opensource-demo.orangehrmlive.com/login"")",Chrome 74.0.3729.131,,2019-05-07 20:56:06,2019-05-07 20:56:11,4.798s,PASSED
+"click(findTestObject(""Object Repository/Object Locators/Page_OrangeHRM/span_Username""))",Chrome 74.0.3729.131,,2019-05-07 20:56:11,2019-05-07 20:56:11,0.094s,PASSED
+"setText(findTestObject(""Object Repository/Object Locators/Page_OrangeHRM/input_LOGIN Panel_txtUsername""), UserName)",Chrome 74.0.3729.131,,2019-05-07 20:56:11,2019-05-07 20:56:11,0.152s,PASSED
+"setText(findTestObject(""Object Repository/Object Locators/Page_OrangeHRM/input_Username_txtPassword""), UserPassword)",Chrome 74.0.3729.131,,2019-05-07 20:56:11,2019-05-07 20:56:12,0.135s,PASSED
+"click(findTestObject(""Object Repository/Object Locators/Page_OrangeHRM/input_Password_Submit""))",Chrome 74.0.3729.131,,2019-05-07 20:56:12,2019-05-07 20:56:12,0.792s,PASSED
+closeBrowser(),Chrome 74.0.3729.131,,2019-05-07 20:56:12,2019-05-07 20:56:13,0.670s,PASSED
+,,,,,,
+Test Cases/Using Data From Files/Test Case Data Driven,Chrome 74.0.3729.131,Extracting Data from Excel File and then using it in Test case as inputs.,2019-05-07 20:56:13,2019-05-07 20:56:26,13.125s,PASSED
+"openBrowser("""")",Chrome 74.0.3729.131,,2019-05-07 20:56:13,2019-05-07 20:56:16,2.724s,PASSED
+"navigateToUrl(""https://opensource-demo.orangehrmlive.com/login"")",Chrome 74.0.3729.131,,2019-05-07 20:56:16,2019-05-07 20:56:24,8.588s,PASSED
+"click(findTestObject(""Object Repository/Object Locators/Page_OrangeHRM/span_Username""))",Chrome 74.0.3729.131,,2019-05-07 20:56:24,2019-05-07 20:56:24,0.087s,PASSED
+"setText(findTestObject(""Object Repository/Object Locators/Page_OrangeHRM/input_LOGIN Panel_txtUsername""), UserName)",Chrome 74.0.3729.131,,2019-05-07 20:56:24,2019-05-07 20:56:25,0.134s,PASSED
+"setText(findTestObject(""Object Repository/Object Locators/Page_OrangeHRM/input_Username_txtPassword""), UserPassword)",Chrome 74.0.3729.131,,2019-05-07 20:56:25,2019-05-07 20:56:25,0.128s,PASSED
+"click(findTestObject(""Object Repository/Object Locators/Page_OrangeHRM/input_Password_Submit""))",Chrome 74.0.3729.131,,2019-05-07 20:56:25,2019-05-07 20:56:25,0.751s,PASSED
+closeBrowser(),Chrome 74.0.3729.131,,2019-05-07 20:56:25,2019-05-07 20:56:26,0.702s,PASSED
+,,,,,,
+Test Cases/Using Data From Files/Test Case Data Driven,Chrome 74.0.3729.131,Extracting Data from Excel File and then using it in Test case as inputs.,2019-05-07 20:56:26,2019-05-07 20:56:36,9.439s,PASSED
+"openBrowser("""")",Chrome 74.0.3729.131,,2019-05-07 20:56:26,2019-05-07 20:56:29,2.664s,PASSED
+"navigateToUrl(""https://opensource-demo.orangehrmlive.com/login"")",Chrome 74.0.3729.131,,2019-05-07 20:56:29,2019-05-07 20:56:34,4.974s,PASSED
+"click(findTestObject(""Object Repository/Object Locators/Page_OrangeHRM/span_Username""))",Chrome 74.0.3729.131,,2019-05-07 20:56:34,2019-05-07 20:56:34,0.089s,PASSED
+"setText(findTestObject(""Object Repository/Object Locators/Page_OrangeHRM/input_LOGIN Panel_txtUsername""), UserName)",Chrome 74.0.3729.131,,2019-05-07 20:56:34,2019-05-07 20:56:34,0.131s,PASSED
+"setText(findTestObject(""Object Repository/Object Locators/Page_OrangeHRM/input_Username_txtPassword""), UserPassword)",Chrome 74.0.3729.131,,2019-05-07 20:56:34,2019-05-07 20:56:34,0.147s,PASSED
+"click(findTestObject(""Object Repository/Object Locators/Page_OrangeHRM/input_Password_Submit""))",Chrome 74.0.3729.131,,2019-05-07 20:56:34,2019-05-07 20:56:35,0.771s,PASSED
+closeBrowser(),Chrome 74.0.3729.131,,2019-05-07 20:56:35,2019-05-07 20:56:36,0.656s,PASSED

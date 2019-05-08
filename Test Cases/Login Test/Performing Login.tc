@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>It will carry out Login Specs and do as we seems it fits as per our requirement goes.</description>
+   <name>Performing Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>de14156b-39df-40fc-abc4-2ff846c2a620</testCaseGuid>
+</TestCaseEntity>

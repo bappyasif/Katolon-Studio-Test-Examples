@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Extracting Data from Excel File and then using it in Test case as inputs.</description>
+   <name>Test Case Data Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>93bef8e9-874f-4e29-8f1a-f110579c8e2a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cf9ac7fb-a4e4-475c-ae16-2029e7934e00</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5a7753d3-24f8-4c1f-a629-8dc63b5dbaca</id>
+      <masked>false</masked>
+      <name>UserPassword</name>
+   </variable>
+</TestCaseEntity>

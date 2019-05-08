@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>private
+Local
+And
+Global</description>
+   <name>Test Case Variable Use</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0a8661d5-03a1-4308-80a2-fac85bff8752</testCaseGuid>
+   <variable>
+      <defaultValue>'Admin\t'</defaultValue>
+      <description></description>
+      <id>1d52d7cd-0e24-4e7f-ace9-690a66b2a72e</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin123'</defaultValue>
+      <description></description>
+      <id>b59b9603-af6c-483c-b121-4d9b06367a9c</id>
+      <masked>false</masked>
+      <name>UserPassword</name>
+   </variable>
+</TestCaseEntity>

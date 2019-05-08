@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Updating Recod from existing data on Spy/Record Web fpr a test case.</description>
+   <name>Record On Existing Browser</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df1e9ba0-2111-4b1c-80e7-8d3955f00a59</testCaseGuid>
+</TestCaseEntity>

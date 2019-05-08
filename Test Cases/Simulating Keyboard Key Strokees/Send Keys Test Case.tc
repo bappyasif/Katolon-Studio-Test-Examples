@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1> We will send Keys to an Input console rather than setting text directly. 
+
+2> Its also helpful when we are trying to simulate Keyboard strokees in our testing such as finding an leemnt and then Pressing CTRL+A to highlight selected text or someting of that sort.</description>
+   <name>Send Keys Test Case</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0bec5445-1257-4e85-85df-0790a22c0867</testCaseGuid>
+</TestCaseEntity>

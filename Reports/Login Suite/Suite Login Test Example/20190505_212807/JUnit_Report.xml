@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Suite Login Test Example" time="25" tests="1" failures="0" errors="0">
+   <testsuite name="Suite Login Test Example" tests="1" failures="0" errors="0" time="25" timestamp="2019-05-05 21:28:09" hostname="BappY - Toruk-Macto" id="Test Suites/Login Suite/Suite Login Test Example">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="E:\\Katalon Studio Safe Space\\Execution Profile Sample Project\\Reports\\Login Suite\\Suite Login Test Example\\20190505_212807"/>
+         <property name="logFiles" value="E:\\Katalon Studio Safe Space\\Execution Profile Sample Project\\Reports\\Login Suite\\Suite Login Test Example\\20190505_212807\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="BappY - Toruk-Macto"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="6.0.4.7"/>
+         <property name="browser" value="Chrome 73.0.3683.103"/>
+         <property name="hostAddress" value="10.244.50.2"/>
+         <property name="sessionId" value="e32cf6b064e5146478e393ca393958d6"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Login Test/Performing Login" classname="Test Cases/Login Test/Performing Login" status="PASSED">
+         <system-out><![CDATA[2019-05-05 21:28:09 - [TEST_CASE][PASSED] - Test Cases/Login Test/Performing Login: Test Cases/Login Test/Performing Login
+
+2019-05-05 21:28:10 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2019-05-05 21:28:10 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2019-05-05 21:28:11 - [MESSAGE][INFO] - Action delay is set to 0 seconds
+
+2019-05-05 21:28:18 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2019-05-05 21:28:18 - [TEST_STEP][PASSED] - navigateToUrl(linkURL): Navigate to 'https://opensource-demo.orangehrmlive.com/login' successfully
+
+2019-05-05 21:28:27 - [MESSAGE][PASSED] - Navigate to 'https://opensource-demo.orangehrmlive.com/login' successfully
+
+2019-05-05 21:28:27 - [TEST_STEP][PASSED] - click(findTestObject("Page_OrangeHRM/span_Username")): Object: 'Object Repository/Page_OrangeHRM/span_Username' is clicked on
+
+2019-05-05 21:28:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_OrangeHRM/span_Username' is clicked on
+
+2019-05-05 21:28:27 - [TEST_STEP][PASSED] - setText(findTestObject("Page_OrangeHRM/input_LOGIN Panel_txtUsername"), userName): Text 'Admin' is set on object 'Object Repository/Page_OrangeHRM/input_LOGIN Panel_txtUsername'
+
+2019-05-05 21:28:27 - [MESSAGE][PASSED] - Text 'Admin' is set on object 'Object Repository/Page_OrangeHRM/input_LOGIN Panel_txtUsername'
+
+2019-05-05 21:28:27 - [TEST_STEP][PASSED] - setText(findTestObject("Page_OrangeHRM/input_Username_txtPassword"), userPassword): Text 'admin123' is set on object 'Object Repository/Page_OrangeHRM/input_Username_txtPassword'
+
+2019-05-05 21:28:27 - [MESSAGE][PASSED] - Text 'admin123' is set on object 'Object Repository/Page_OrangeHRM/input_Username_txtPassword'
+
+2019-05-05 21:28:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_OrangeHRM/input_Password_Submit")): Object: 'Object Repository/Page_OrangeHRM/input_Password_Submit' is clicked on
+
+2019-05-05 21:28:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_OrangeHRM/input_Password_Submit' is clicked on
+
+2019-05-05 21:28:32 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2019-05-05 21:28:33 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2019-05-05 21:28:09 - [TEST_SUITE][PASSED] - Suite Login Test Example: Test Cases/Login Test/Performing Login]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

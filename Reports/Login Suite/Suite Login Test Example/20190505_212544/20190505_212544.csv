@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Suite Login Test Example,Chrome 73.0.3683.103,,2019-05-05 21:25:48,2019-05-05 21:26:03,14.875s,PASSED
+,,,,,,
+Test Cases/Login Test/Performing Login,Chrome 73.0.3683.103,It will carry out Login Specs and do as we seems it fits as per our requirement goes.,2019-05-05 21:25:48,2019-05-05 21:26:03,14.557s,PASSED
+"openBrowser("""")",Chrome 73.0.3683.103,,2019-05-05 21:25:49,2019-05-05 21:25:53,4.294s,PASSED
+navigateToUrl(linkURL),Chrome 73.0.3683.103,,2019-05-05 21:25:53,2019-05-05 21:25:57,4.103s,PASSED
+"click(findTestObject(""Page_OrangeHRM/span_Username""))",Chrome 73.0.3683.103,,2019-05-05 21:25:57,2019-05-05 21:25:57,0.194s,PASSED
+"setText(findTestObject(""Page_OrangeHRM/input_LOGIN Panel_txtUsername""), userName)",Chrome 73.0.3683.103,,2019-05-05 21:25:57,2019-05-05 21:25:58,0.167s,PASSED
+"setText(findTestObject(""Page_OrangeHRM/input_Username_txtPassword""), userPassword)",Chrome 73.0.3683.103,,2019-05-05 21:25:58,2019-05-05 21:25:58,0.170s,PASSED
+"click(findTestObject(""Object Repository/Page_OrangeHRM/input_Password_Submit""))",Chrome 73.0.3683.103,,2019-05-05 21:25:58,2019-05-05 21:26:00,2.122s,PASSED
+closeBrowser(),Chrome 73.0.3683.103,,2019-05-05 21:26:00,2019-05-05 21:26:01,0.714s,PASSED

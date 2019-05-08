@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Testing Checkpoints</name>
+   <tag></tag>
+   <excel-source-info>
+      <is-from-test-data>false</is-from-test-data>
+      <source-url>E:\Katalon Studio Safe Space\Execution Profile Sample Project\Data File.xlsx</source-url>
+      <source-type>ExcelFile</source-type>
+      <sheet-name-or-separator>Sheet1</sheet-name-or-separator>
+      <is-using-relative-path>false</is-using-relative-path>
+      <is-using-first-row-as-header>true</is-using-first-row-as-header>
+   </excel-source-info>
+   <taken-date>2019-05-06T22:09:21.639</taken-date>
+   <column-names>
+      <column-name>User Name</column-name>
+      <column-name>User Password</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Admin",
+      "checked": true
+    },
+    {
+      "value": "admin123",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Admin2",
+      "checked": true
+    },
+    {
+      "value": "admin1234",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Admin 3",
+      "checked": true
+    },
+    {
+      "value": "admin12344",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>
