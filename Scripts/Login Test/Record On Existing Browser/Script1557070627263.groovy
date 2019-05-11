@@ -30,6 +30,8 @@ WebUI.click(findTestObject('Re-Recording Of Test Scenario/Page_OrangeHRM/b_Admin
 
 WebUI.click(findTestObject('Object Repository/Re-Recording Of Test Scenario/Page_OrangeHRM/a_User Management'))
 
+WebUI.verifyElementPresent(findTestObject('Re-Recording Of Test Scenario/Page_OrangeHRM/a_Users'), 2)
+
 WebUI.click(findTestObject('Re-Recording Of Test Scenario/Page_OrangeHRM/a_Users'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Re-Recording Of Test Scenario/Page_OrangeHRM/input_Status__search'))
