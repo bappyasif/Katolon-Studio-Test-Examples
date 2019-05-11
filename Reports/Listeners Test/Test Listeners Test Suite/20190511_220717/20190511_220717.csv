@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Test Listeners Test Suite,,,2019-05-11 22:07:19,2019-05-11 22:07:20,0.949s,PASSED
+,,,,,,
+Test Cases/TestNG Listeners/Trying Listeners,,Listeners Use TestNG Annotation,2019-05-11 22:07:20,2019-05-11 22:07:20,0.378s,PASSED
+Start listener action : myBeforeTestSample,,,2019-05-11 22:07:20,2019-05-11 22:07:20,0.003s,PASSED
+Start listener action : sampleBeforeTestCase,,,2019-05-11 22:07:20,2019-05-11 22:07:20,0.011s,PASSED
+"println("" 
+ .....Just A Print Statement..... 
+"")",,,2019-05-11 22:07:20,2019-05-11 22:07:20,0.113s,PASSED
+Start listener action : sampleAfterTestCase,,,2019-05-11 22:07:20,2019-05-11 22:07:20,0.004s,PASSED
+Start listener action : myAfterTestSample,,,2019-05-11 22:07:20,2019-05-11 22:07:20,0.003s,PASSED
